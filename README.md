@@ -26,9 +26,12 @@
 1.  [Homepage](http://earthengine.google.com)
 2.  [Code Editor (Playground)](http://code.earthengine.google.com)
 3.  [Developers Forum](https://groups.google.com/forum/#!forum/google-earth-engine-developers)
-4.  [Documentation](https://developers.google.com/earth-engine/)
-5.  [Issue Tracker](https://issuetracker.google.com/issues?q=componentid:184426&p=1)
-6.  [Private Git Sources](https://earthengine.googlesource.com/#)
+4.  [Issue Tracker](https://issuetracker.google.com/issues?q=componentid:184426&p=1)
+5.  [Private Git Sources](https://earthengine.googlesource.com/#)
+
+### Official Documentation
+1.  [Documentation](https://developers.google.com/earth-engine/)
+2.  [Selected Vector Datasets](https://developers.google.com/earth-engine/vector_datasets)
 
 ### Applications
 
