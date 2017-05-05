@@ -38,8 +38,8 @@
 
 1. [Global Forest Change](https://earthenginepartners.appspot.com/science-2013-global-forest)
 2. [Global Surface Water Occurrence](http://global-surface-water.appspot.com)
-3. [Global Surface Water Changes (Aqua Monitor)](http://aqua-monitor.appspot.com)
-4. [Cloud Frequency (MODIS)](http://www.earthenv.org/cloud)
+3. [Aqua Monitor: Global Surface Water Changes](http://aqua-monitor.appspot.com)
+4. [EarthEnv: Global Cloud Frequency](http://www.earthenv.org/cloud)
 
 -----
 ### Contributing
