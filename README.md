@@ -2,9 +2,11 @@
 
 ## Table of Contents
 
-* **[GoogleLinks](#googlelinks)**  
+* **[Earth Engine Links](#googlelinks)**  
 
 * **[Snippets](#snippets)**  
+
+* **[Notebooks](#notebooks)**  
 
 * **[Datasets](#datasets)**  
 
@@ -14,7 +16,7 @@
 
 * **[Researchers](#researchers)**  
 
-* **[WebSites](#websites)**  
+* **[Websites](#websites)**  
 
 * **[Miscellaneous](#miscellaneous)**  
 
@@ -40,6 +42,7 @@
 2. [Global Surface Water Occurrence](http://global-surface-water.appspot.com)
 3. [Aqua Monitor: Global Surface Water Changes](http://aqua-monitor.appspot.com)
 4. [EarthEnv: Global Cloud Frequency](http://www.earthenv.org/cloud)
+5. [Global Croplands Mapping](https://croplands.org/)
 
 -----
 ### Contributing
