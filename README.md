@@ -26,15 +26,21 @@
 ### Official Google Links
 
 1.  [Homepage](http://earthengine.google.com) - official homepage
-2.  [Code Editor (Playground)](http://code.earthengine.google.com) - main EE GUI (JavaScript)
-3.  [Developers Forum](https://groups.google.com/forum/#!forum/google-earth-engine-developers) - most EE discussions occur here
-4.  [Issue Tracker](https://issuetracker.google.com/issues?q=componentid:184426&p=1) - dataset requests
-5.  [Private Git Sources](https://earthengine.googlesource.com/#) - browse you private EE git repositories
-6.  [Timelapse](https://earthengine.google.com/timelapse/#) - global timelapse video (Landsat)
+1.  [Code Editor (Playground)](http://code.earthengine.google.com) - main EE GUI (JavaScript)
+1.  [Developers Forum](https://groups.google.com/forum/#!forum/google-earth-engine-developers) - most EE discussions occur here
+1.  [Issue Tracker](https://issuetracker.google.com/issues?q=componentid:184426&p=1) - issue tracker
+1.  [Data Request](https://issuetracker.google.com/issues?q=componentid:184426%20status:open&d=vote_count&d=title&d=79295&d=status) - dataset requests
+1.  [Private Git Sources](https://earthengine.googlesource.com/#) - browse you private EE git repositories
+1.  [Timelapse](https://earthengine.google.com/timelapse/#) - global timelapse video (Landsat)
 
 ### Official Documentation
 1.  [Documentation](https://developers.google.com/earth-engine/) - Users Guide
-2.  [Selected Vector Datasets](https://developers.google.com/earth-engine/vector_datasets)
+1.  [Earthengine Api](https://github.com/google/earthengine-api)
+1.  [Selected Vector Datasets](https://developers.google.com/earth-engine/vector_datasets)
+1.  [Earth Engine resources for higher education](https://developers.google.com/earth-engine/edu)
+1.  [User Summit 2016](http://earthenginesummit2016.earthoutreach.org/training-materials#TOC-Breakout-Sessions---all-days)
+1.  [gsutil tool](https://cloud.google.com/storage/docs/gsutil)
+1.  [Google Cloud Storage Documentation](https://cloud.google.com/storage/docs/)
 
 ### Applications
 
