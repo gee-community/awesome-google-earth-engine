@@ -49,27 +49,36 @@
 ### Applications
 
 1. [Global Forest Change](https://earthenginepartners.appspot.com/science-2013-global-forest)
-2. [Global Surface Water Occurrence (JRC)](http://global-surface-water.appspot.com)
-3. [Global Surface Water Changes (Aqua Monitor)](http://aqua-monitor.appspot.com)
-4. [Global Cloud Frequency (EarthEnv)](http://www.earthenv.org/cloud)
-5. [Global Croplands Mapping](https://croplands.org/)
+1. [Global Surface Water Occurrence (JRC)](http://global-surface-water.appspot.com)
+1. [Global Surface Water Changes (Aqua Monitor)](http://aqua-monitor.appspot.com)
+1. [Global Cloud Frequency (EarthEnv)](http://www.earthenv.org/cloud)
+1. [Global Croplands Mapping](https://croplands.org/)
+1. [Global Height Above the Nearest Drainage](http://global-hand.appspot.com)
 
 ### Snippets
+...
 
 ### Notebooks
+1. [Surface water detection using Otsu thresholding and Canny edge detection](https://github.com/gena/gena.github.io/blob/master/experiments/surface_water_detection_canny_otsu.ipynb)
 
 ### Datasets
+...
 
 ### Papers
+...
 
 ### Projects
+...
 
 ### Researchers
+...
 
 ### Websites
+...
 
 ### Miscellaneous
-
+1. [Otsu’s Method for Image Segmentation](https://medium.com/google-earth/otsus-method-for-image-segmentation-f5c48f405e)
+1. [Introduction to map projections with Google Earth Engine, part 1](https://medium.com/google-earth/introduction-to-map-projections-with-google-earth-engine-part-1-7840e4ca6264)
 
 
 -----
