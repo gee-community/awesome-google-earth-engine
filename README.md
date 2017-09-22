@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-* **[Main](#googlelinks)**  
+* **[Main](#main)**  
 
-* **[Documentation](#docs)**  
+* **[Documentation](#documentation)**  
 
-* **[Applications](#apps)**
+* **[Applications](#applications)**
 
 * **[Snippets](#snippets)**  
 
