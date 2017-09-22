@@ -56,7 +56,7 @@
 1. [Global Height Above the Nearest Drainage](http://global-hand.appspot.com)
 
 ### Applications
-1. [ee-runner](https://github.com/gena/ee-runner)
+1. [ee-runner](https://github.com/gena/ee-runner) - wrapper around EE JavaScript API, allows running Code Editor scripts locally, requires [Node.js](https://nodejs.org/en/)
 
 ### Snippets
 ... links to the most useful code snippets
