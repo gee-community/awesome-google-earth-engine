@@ -68,7 +68,7 @@
 ... datasets not included into the main catalog (not searchable)
 
 ### Papers
-... the most useful academic papers (and scripts)
+... academic papers (and scripts)
 
 ### Projects
 ... projects using Google Earth Engine
