@@ -30,10 +30,10 @@
 ### Main
 1.  [Homepage](http://earthengine.google.com) - official homepage
 1.  [Code Editor (Playground)](http://code.earthengine.google.com) - main EE GUI (JavaScript)
-1.  [Developers Forum](https://groups.google.com/forum/#!forum/google-earth-engine-developers) - most EE discussions occur here
+1.  [Developers Forum](https://groups.google.com/forum/#!forum/google-earth-engine-developers) - most technical EE discussions happen here
 1.  [Issue Tracker](https://issuetracker.google.com/issues?q=componentid:184426&p=1) - issue tracker
 1.  [Data Request](https://issuetracker.google.com/issues?q=componentid:184426%20status:open&d=vote_count&d=title&d=79295&d=status) - dataset requests
-1.  [Private Git Sources](https://earthengine.googlesource.com/#) - browse you private EE git repositories
+1.  [Private Git Sources](https://earthengine.googlesource.com/#) - private EE git repositories
 1.  [Timelapse](https://earthengine.google.com/timelapse/#) - global timelapse video (Landsat)
 
 ### Documentation
