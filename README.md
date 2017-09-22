@@ -6,6 +6,8 @@
 
 * **[Documentation](#documentation)**  
 
+* **[Websites](#websites)**
+
 * **[Applications](#applications)**
 
 * **[Snippets](#snippets)**  
@@ -45,7 +47,7 @@
 1.  [gsutil tool](https://cloud.google.com/storage/docs/gsutil)
 1.  [Google Cloud Storage Documentation](https://cloud.google.com/storage/docs/)
 
-### Applications
+### Websites
 1. [Global Forest Change](https://earthenginepartners.appspot.com/science-2013-global-forest)
 1. [Global Surface Water Occurrence (JRC)](http://global-surface-water.appspot.com)
 1. [Global Surface Water Changes (Aqua Monitor)](http://aqua-monitor.appspot.com)
@@ -53,26 +55,26 @@
 1. [Global Croplands Mapping](https://croplands.org/)
 1. [Global Height Above the Nearest Drainage](http://global-hand.appspot.com)
 
+### Applications
+1. [ee-runner](https://github.com/gena/ee-runner)
+
 ### Snippets
-...
+... links to the most useful code snippets
 
 ### Notebooks
 1. [Surface water detection using Otsu thresholding and Canny edge detection](https://github.com/gena/gena.github.io/blob/master/experiments/surface_water_detection_canny_otsu.ipynb)
 
 ### Datasets
-...
+... datasets not included into the main catalog (not searchable)
 
 ### Papers
-...
+... the most useful academic papers (and scripts)
 
 ### Projects
-...
+... projects using Google Earth Engine
 
 ### Researchers
-...
-
-### Websites
-...
+... 
 
 ### Miscellaneous
 1. [Otsu’s Method for Image Segmentation](https://medium.com/google-earth/otsus-method-for-image-segmentation-f5c48f405e)
