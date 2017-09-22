@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* **[Google Links](#googlelinks)**  
+* **[Main](#googlelinks)**  
 
 * **[Documentation](#docs)**  
 
@@ -27,8 +27,7 @@
 * **[Contributing](#contributing)**  
 
 
-### Google Links
-
+### Main
 1.  [Homepage](http://earthengine.google.com) - official homepage
 1.  [Code Editor (Playground)](http://code.earthengine.google.com) - main EE GUI (JavaScript)
 1.  [Developers Forum](https://groups.google.com/forum/#!forum/google-earth-engine-developers) - most EE discussions occur here
@@ -47,7 +46,6 @@
 1.  [Google Cloud Storage Documentation](https://cloud.google.com/storage/docs/)
 
 ### Applications
-
 1. [Global Forest Change](https://earthenginepartners.appspot.com/science-2013-global-forest)
 1. [Global Surface Water Occurrence (JRC)](http://global-surface-water.appspot.com)
 1. [Global Surface Water Changes (Aqua Monitor)](http://aqua-monitor.appspot.com)
