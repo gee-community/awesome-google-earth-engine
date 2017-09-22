@@ -2,7 +2,11 @@
 
 ## Table of Contents
 
-* **[Earth Engine Links](#googlelinks)**  
+* **[Google Links](#googlelinks)**  
+
+* **[Documentation](#docs)**  
+
+* **[Applications](#apps)**
 
 * **[Snippets](#snippets)**  
 
@@ -23,7 +27,7 @@
 * **[Contributing](#contributing)**  
 
 
-### Official Google Links
+### Google Links
 
 1.  [Homepage](http://earthengine.google.com) - official homepage
 1.  [Code Editor (Playground)](http://code.earthengine.google.com) - main EE GUI (JavaScript)
@@ -33,7 +37,7 @@
 1.  [Private Git Sources](https://earthengine.googlesource.com/#) - browse you private EE git repositories
 1.  [Timelapse](https://earthengine.google.com/timelapse/#) - global timelapse video (Landsat)
 
-### Official Documentation
+### Documentation
 1.  [Documentation](https://developers.google.com/earth-engine/) - Users Guide
 1.  [Earthengine Api](https://github.com/google/earthengine-api)
 1.  [Selected Vector Datasets](https://developers.google.com/earth-engine/vector_datasets)
@@ -49,6 +53,24 @@
 3. [Global Surface Water Changes (Aqua Monitor)](http://aqua-monitor.appspot.com)
 4. [Global Cloud Frequency (EarthEnv)](http://www.earthenv.org/cloud)
 5. [Global Croplands Mapping](https://croplands.org/)
+
+### Snippets
+
+### Notebooks
+
+### Datasets
+
+### Papers
+
+### Projects
+
+### Researchers
+
+### Websites
+
+### Miscellaneous
+
+
 
 -----
 ### Contributing
