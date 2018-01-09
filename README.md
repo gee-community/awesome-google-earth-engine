@@ -20,7 +20,7 @@
 
 * **[Projects](#projects)**
 
-* **[Researchers](#researchers)**  
+* **[Developers](#developers)**  
 
 * **[Websites](#websites)**  
 
@@ -73,7 +73,7 @@
 ### Projects
 ... projects using Google Earth Engine
 
-### Researchers
+### Developers
 ... 
 
 ### Miscellaneous
